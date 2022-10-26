@@ -21,6 +21,6 @@ public class AboutMe {
 		System.out.println(aboutMe.my_investment);
 		System.out.println(aboutMe.road_distance);
 		System.out.println("product hight: " + aboutMe.product_hight + ", road distance: " + aboutMe.road_distance);
-
+//
 	}
 }
