@@ -17,8 +17,7 @@ public class AboutMeTest {
 		info1.usCitizen = true;
 		info1.aboutMe(); // method initialized.
 
-		System.out
-				.println("\n--------------------------------------------------------------------------------------\n");
+		System.out.println("\n--------------------------------------------------------------------------------------\n");
 
 		AboutMe info2 = new AboutMe();
 		// variables initialized,
