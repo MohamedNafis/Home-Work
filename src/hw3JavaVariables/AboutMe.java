@@ -1,6 +1,5 @@
 package hw3JavaVariables;
 
-
 public class AboutMe {
 	// Variable Declare
 	public String myName = " ";
@@ -14,14 +13,14 @@ public class AboutMe {
 	public double road_distance = 7.327465847564536;
 	public char gander = 'M';
 	public boolean citizen = true;
-	
+
 	public static void main(String[] args) {
 		AboutMe aboutMe = new AboutMe();
 		System.out.println(aboutMe.myAge);
 		System.out.println(aboutMe.myMonthlyRent);
 		System.out.println(aboutMe.my_investment);
 		System.out.println(aboutMe.road_distance);
-		System.out.println("product hight: "+ aboutMe.product_hight + ", road distance: "  + aboutMe.road_distance);
-		
+		System.out.println("product hight: " + aboutMe.product_hight + ", road distance: " + aboutMe.road_distance);
+
 	}
 }
