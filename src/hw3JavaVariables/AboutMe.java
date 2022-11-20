@@ -2,7 +2,7 @@ package hw3JavaVariables;
 
 public class AboutMe {
 	// Variable Declare
-	public String myName = " ";
+	public String myName ;
 
 	// Variable Initialize
 	public byte myAge = 25;
