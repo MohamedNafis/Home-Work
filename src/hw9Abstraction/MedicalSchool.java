@@ -11,7 +11,7 @@ public abstract class MedicalSchool extends NursingSchool {
 		
 	}
 	/*Qa: how many keywords are used for the inheritance in Java for Abstract Class?
-	 * Ans: One (Extends) Keyword is used for inheritance in JAVA for  Abstract Class.
+	 * Ans: Tow (Extends & Implements) Keyword is used for inheritance in JAVA for  Abstract Class.
 	 * Qa: Can an Abstract Class inherit other Abstract Class or a regular class or interface by extends keyword?
 	 * Ans: An Abstract Class can inherit other Abstract class or regular class but Abstract can not inherit interface.
 	 * Qa: How many inheritances is possible by an Abstract Class?

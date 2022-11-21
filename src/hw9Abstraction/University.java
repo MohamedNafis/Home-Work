@@ -15,7 +15,6 @@ public interface University extends College,Hospital {
 
 	}
 
-	public static void gymnasium() {
 		
 		
 	}
@@ -28,4 +27,4 @@ public interface University extends College,Hospital {
 	 * Ans: An interface can inherit More then one interface */
 
 
-}
+
