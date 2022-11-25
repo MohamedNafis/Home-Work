@@ -1,9 +1,7 @@
 package hw10UseOfSuperInChildClass;
 
 public class TestFamily {
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 	/*	System.out.println("---------- default constructor initialized from Father Class ----------");
 		Father father = new Father();
