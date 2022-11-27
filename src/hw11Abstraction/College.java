@@ -1,4 +1,4 @@
-package hw10Abstraction;
+package hw11Abstraction;
 
 public interface College {
 	public void commonRoom();
@@ -12,7 +12,6 @@ public interface College {
 	public static void studyRoom() {
 		
 	}
-	
 	
 
 }

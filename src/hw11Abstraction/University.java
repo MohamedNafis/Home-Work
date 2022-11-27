@@ -1,4 +1,4 @@
-package hw10Abstraction;
+package hw11Abstraction;
 
 public interface University extends College,Hospital {
 	public void classSize();
@@ -10,7 +10,6 @@ public interface University extends College,Hospital {
 	 
 	 }
 	 */
-	
 	public default void gymnasium() {
 
 	}
@@ -18,6 +17,15 @@ public interface University extends College,Hospital {
 	public static void library () {
 		
 	}
+	public static void studyRoom() {
+		// TODO Auto-generated method stub
+		
+	}
+	public static void pharmacy() {
+		// TODO Auto-generated method stub
+	}
+	
+
 		
 		
 	}

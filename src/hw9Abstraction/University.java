@@ -11,10 +11,13 @@ public interface University extends College,Hospital {
 	 }
 	 */
 	
-	public default void library() {
+	public default void gymnasium() {
 
 	}
-
+	
+	public static void library () {
+		
+	}
 		
 		
 	}
